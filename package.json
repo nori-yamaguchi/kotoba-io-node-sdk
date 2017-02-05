@@ -1,0 +1,27 @@
+{
+  "name": "kotoba-io-node-sdk",
+  "version": "1.0.0",
+  "description": "Kotoba.io API wrapper",
+  "main": "./lib/kotoba.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nori-yamaguchi/kotoba-io-node-sdk.git"
+  },
+  "keywords": [
+    "kotoba.io",
+    "api"
+  ],
+  "author": "Kotoba.io <support@kotoba.io> (https://www.kotoba.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nori-yamaguchi/kotoba-io-node-sdk/issues"
+  },
+  "dependencies": {
+    "deep-extend": "^0.4.1",
+    "request": "^2.72.0"
+  },
+  "homepage": "https://github.com/nori-yamaguchi/kotoba-io-node-sdk#readme"
+}
